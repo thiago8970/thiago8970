@@ -5,7 +5,7 @@
 
 ## I am a Data Engineer with focus on application development, cloud computing and big data processing.
 
-- 💻 4+ years of experience working as Data Engineer
+- 💻 6+ years of experience working as Data Engineer
 - 🤖 Graduated in Control and Automation Engineering
 - 👨‍💻 Senior Data Engineer at Flash
 - 👨‍💻 Interested in DevOps/DataOps and Machine Learning
